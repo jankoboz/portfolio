@@ -1,0 +1,25 @@
+{
+    "title": "Why employ me?",
+    "services": [
+        {
+            "icon": "layer-group",
+            "title": "Design to deploy",
+            "description": "Experience with entire development life cycle phases include planning, design, development, implementation, integration, testing and maintenance."
+        },
+        {
+            "icon": "hourglass-half",
+            "title": "Time management",
+            "description": "Working from home taught me excellent organizational and time management skills. Such as; self-awareness, prioritizing, decision-making, goal setting, multitasking, meeting deadlines, stress management and coping."
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Self-development",
+            "description": "Keeping up to date with fast-changing trends in software development. Learning new tips, tricks, and technology to allow me to better do my job."
+        },
+        {
+            "icon": "briefcase",
+            "title": "Work ethic",
+            "description": "Not only hard work but also reliability, responsibility, quality, determination and discipline. Productive with a positive attitude."
+        }
+    ]
+}

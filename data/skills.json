@@ -1,0 +1,38 @@
+{
+    "title": "Skills",
+    "description": "Technical skills are worth mentioning. But listing them is only helpful to impress recruiters. I am a lifelong learner. I like to leave my comfort zone and play with variety tech stacks.",
+    "skills": {
+        "Design": {
+            "level": 97,
+            "detail": "Illustrator, Photoshop, Figma"
+        },
+        "Test": {
+            "level": 93,
+            "detail": "Jest/Enzyme, Ava, Mocha/Chai"
+        },
+        "Deploy": {
+            "level": 90,
+            "detail": "Linux, Github actions"
+        },
+        "Frontend": {
+            "level": 100,
+            "detail": "Html, Css, Sass, Less, Styled, Bootstrap, Jquery, React, Vue, Redux, Vuex, Next, Nuxt, Hugo, Valtio, Hooks"
+        },
+        "Backend": {
+            "level": 95,
+            "detail": "Api, Sql, NoSql, Cms, Jwt, Redis, OOP, Hasura, Firebase, Graphql, Rest, S3, Paypal, Stripe"
+        },
+        "Mobile": {
+            "level": 80,
+            "detail": "React native"
+        },
+        "Languages": {
+            "level": 100,
+            "detail": "Typescript, JavaScript (C#, Php, Python)"
+        },
+        "Savvy": {
+            "level": 95,
+            "detail": "OOP, FP, Design patterns, Solid, Mvc, Responsive Design, Bem, Ssr, JamStack, Version control, Accessibility"
+        }
+    }
+}
