@@ -1,6 +1,6 @@
 # Portfolio website
 
-A simple complete JamStack website. Hugo is a static site generator written in Go and it is blazing fast! Pleasure to work with but unfortunately only suitable for small projects.
+A simple complete JamStack website. Hugo is a static site generator written in Go and it is blazing fast! Pleasure to work with.
 
 ## Tech Stack
 
