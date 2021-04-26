@@ -28,11 +28,11 @@
         },
         "Languages": {
             "level": 100,
-            "detail": "Typescript, JavaScript (C#, Php, Python)"
+            "detail": "Typescript, JavaScript (C#, Php)"
         },
         "Savvy": {
             "level": 95,
-            "detail": "OOP, FP, Design patterns, Solid, Mvc, Responsive Design, Bem, Ssr, JamStack, Version control, Accessibility"
+            "detail": "OOP, FP, Design patterns, Solid, Mvc, Responsive Design, Bem, Ssr, JamStack, Version control, Accessibility, Performance"
         }
     }
 }
