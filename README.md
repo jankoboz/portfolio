@@ -4,13 +4,13 @@ A simple complete JamStack website. Hugo is a static site generator written in G
 
 ## Tech Stack
 
--   [x] Hugo
--   [x] Html
--   [x] Css/Sass
--   [x] Jquery
--   [x] Bootstrap
--   [x] Github pages (Hosted free)
--   [x] Github actions (Automated CI/CD)
+- Hugo
+- Html
+- Css/Sass
+- Jquery
+- Bootstrap
+- Hosted on Github pages
+- CI/CD Github actions
 
 ## Available Commands
 
