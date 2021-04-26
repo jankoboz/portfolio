@@ -1,6 +1,6 @@
 {
     "title": "Skills",
-    "description": "Technical skills are worth mentioning. But listing them is only helpful to impress recruiters. I am a lifelong learner. I like to leave my comfort zone and play with variety tech stacks.",
+    "description": "I am a lifelong learner, always passionate and keen on learning new technologies. I am driven, focused, and a quick learner.",
     "skills": {
         "Design": {
             "level": 97,
@@ -8,31 +8,23 @@
         },
         "Test": {
             "level": 93,
-            "detail": "Jest/Enzyme, Ava, Mocha/Chai"
-        },
-        "Deploy": {
-            "level": 90,
-            "detail": "Linux, Github actions"
+            "detail": "Jest/Enzyme, Mocha/Chai"
         },
         "Frontend": {
             "level": 100,
-            "detail": "Html, Css, Sass, Less, Styled, Bootstrap, Jquery, React, Vue, Redux, Vuex, Next, Nuxt, Hugo, Valtio, Hooks"
+            "detail": "Html, Css, Sass, Styled, Jquery, React, Vue, Redux, Vuex, Next, Nuxt, Hugo"
         },
-        "Backend": {
+        "Server": {
             "level": 95,
-            "detail": "Api, Sql, NoSql, Cms, Jwt, Redis, OOP, Hasura, Firebase, Graphql, Rest, S3, Paypal, Stripe"
-        },
-        "Mobile": {
-            "level": 80,
-            "detail": "React native"
+            "detail": "Api, Sql, NoSql, Cms, Jwt, Redis, OOP, Firebase, Graphql, Rest, S3, Paypal, Stripe"
         },
         "Languages": {
             "level": 100,
-            "detail": "Typescript, JavaScript (C#, Php, Python)"
+            "detail": "Typescript, JavaScript (C#, Php)"
         },
         "Savvy": {
             "level": 95,
-            "detail": "OOP, FP, Design patterns, Solid, Mvc, Responsive Design, Bem, Ssr, JamStack, Version control, Accessibility"
+            "detail": "Linux, Github actions, OOP, FP, Design patterns, Solid, Mvc, Responsive Design, Bem, Ssr, JamStack, SEO Git, Accessibility"
         }
     }
 }
