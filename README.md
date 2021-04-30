@@ -2,6 +2,7 @@
 
 A simple complete JamStack website. Hugo is a static site generator written in Go and it is blazing fast! Pleasure to play with.
 
+
 ## Tech Stack
 
 - Hugo
@@ -14,5 +15,5 @@ A simple complete JamStack website. Hugo is a static site generator written in G
 
 ## Available Commands
 
--   `hugo server -D` - start the dev server
+-   `hugo server -D` - start the dev server (http://localhost:1313/)
 -   `hugo -D` - Build static pages

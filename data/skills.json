@@ -1,30 +1,23 @@
 {
     "title": "Skills",
-    "description": "I am a lifelong learner, always passionate and keen on learning new technologies. I am driven, focused, and a quick learner.",
     "skills": {
         "Design": {
-            "level": 97,
-            "detail": "Illustrator, Photoshop, Figma"
+            "detail": "Illustrator, Photoshop, Figma, CorelDRAW"
         },
         "Test": {
-            "level": 93,
             "detail": "Jest/Enzyme, Mocha/Chai"
         },
         "Frontend": {
-            "level": 100,
             "detail": "Html, Css, Sass, Styled, Jquery, React, Vue, Redux, Vuex, Next, Nuxt, Hugo"
         },
         "Server": {
-            "level": 95,
-            "detail": "Api, Sql, NoSql, Cms, Jwt, Redis, OOP, Firebase, Graphql, Rest, S3, Paypal, Stripe"
+            "detail": "Sql, NoSql, Cms, Api, Jwt, Redis, Graphql, Rest, S3, Payment gateways"
         },
         "Languages": {
-            "level": 100,
-            "detail": "Typescript, JavaScript (C#, Php)"
+            "detail": "JavaScript, Typescript (C#, Php)"
         },
         "Savvy": {
-            "level": 95,
-            "detail": "OOP, FP, Design patterns, Solid, Mvc, Responsive Design, Bem, Ssr, JamStack, Version control, Accessibility, Performance"
+            "detail": "OOP, FP, Design patterns, Solid, Mvc, Linux, Responsive Design, Bem, Ssr, JamStack, Git, Accessibility, Performance"
         }
     }
 }
