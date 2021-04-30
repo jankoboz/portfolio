@@ -1,0 +1,98 @@
+{{ $portfolio := .Site.Data.portfolio }}
+
+<section id="portfolio" class="blue">
+    <h2 class="heading">{{ $portfolio.title }}</h2>
+    <p>{{$portfolio.description}}</p>
+    <div class="portfolio">
+        <span class="h5">1. {{ $portfolio.work.one.title }}</span>
+        <p class="description">{{ $portfolio.work.one.desc }}</p>
+
+        <a href="{{$portfolio.work.one.git1}}" target="_blank"
+            ><i class="fas fa-code"></i> Server code</a
+        >
+        <a href="{{$portfolio.work.one.git2}}" target="_blank"
+            ><i class="fas fa-code"></i> UI code</a
+        >
+        <br />
+        <a href="{{$portfolio.work.one.url}}" target="_blank"
+            ><i class="fas fa-eye"></i> Website</a
+        >
+    </div>
+
+    <div class="portfolio">
+        <span class="h5">2. {{ $portfolio.work.two.title }}</span>
+        <p class="description">{{ $portfolio.work.two.desc }}</p>
+
+        <a href="{{$portfolio.work.two.git}}" target="_blank"
+            ><i class="fas fa-code"></i> Code</a
+        >
+        <br />
+        <a href="{{$portfolio.work.two.url}}" target="_blank"
+            ><i class="fas fa-eye"></i> Chrome store</a
+        >
+    </div>
+
+    <div class="portfolio">
+        <span class="h5">3. {{ $portfolio.work.three.title }}</span>
+        <p class="description">{{ $portfolio.work.three.desc }}</p>
+
+        <a href="{{$portfolio.work.three.git}}" target="_blank"
+            ><i class="fas fa-code"></i> Code</a
+        >
+        <br />
+        <a href="{{$portfolio.work.three.url}}" target="_blank"
+            ><i class="fas fa-eye"></i> Website</a
+        >
+    </div>
+
+    <div class="portfolio">
+        <span class="h5">4. {{ $portfolio.work.four.title }}</span>
+        <p class="description">{{ $portfolio.work.four.desc }}</p>
+
+        <a href="{{$portfolio.work.four.git}}" target="_blank"
+            ><i class="fas fa-code"></i> Code</a
+        >
+    </div>
+
+    <div class="portfolio">
+        <span class="h5">5. {{ $portfolio.work.five.title }}</span>
+        <p class="description">{{ $portfolio.work.five.desc }}</p>
+
+        <a href="{{$portfolio.work.five.git}}" target="_blank"
+            ><i class="fas fa-code"></i> Code</a
+        >
+        <br />
+        <a href="{{$portfolio.work.five.url1}}" target="_blank"
+            ><i class="fas fa-eye"></i> Apple Store</a
+        >
+        <a href="{{$portfolio.work.five.url2}}" target="_blank"
+            ><i class="fas fa-eye"></i> Play Store</a
+        >
+    </div>
+
+    <div class="portfolio">
+        <span class="h5">6. {{ $portfolio.work.six.title }}</span>
+        <p class="description">{{ $portfolio.work.six.desc }}</p>
+
+        <a href="{{$portfolio.work.six.git}}" target="_blank"
+            ><i class="fas fa-code"></i> Code</a
+        >
+        <br />
+        <a href="{{$portfolio.work.six.url}}" target="_blank"
+            ><i class="fas fa-eye"></i> Npm</a
+        >
+    </div>
+
+    <div class="portfolio">
+        <span class="h5">7. {{ $portfolio.work.seven.title }}</span>
+        <p class="description">{{ $portfolio.work.seven.desc }}</p>
+
+        <a href="{{$portfolio.work.seven.git}}" target="_blank"
+            ><i class="fas fa-code"></i> Code</a
+        >
+        <br />
+        <a href="{{$portfolio.work.seven.url}}" target="_blank"
+            ><i class="fas fa-eye"></i> Npm</a
+        >
+    </div>
+</section>
