@@ -7,18 +7,18 @@
     {{ range $key, $value := $skills.skills }}
 
     <div class="skill">
-        <span class="h6">{{ $key }}</span>
+        <span class="h5">{{ $key }}</span>
         <small class="small">{{ $value.detail }}</small>
-        <div class="progress">
-            <div
+        <!-- <div class="progress"> -->
+            <!-- <div
                 class="progress-bar bg-blue"
                 role="progressbar"
                 style="width: {{ $value.level }}%"
                 aria-valuenow="10"
                 aria-valuemin="0"
                 aria-valuemax="100"
-            ></div>
-        </div>
+            ></div> -->
+        <!-- </div> -->
     </div>
     {{ end }}
 </section>
