@@ -2,23 +2,23 @@
     "title": "Projects",
     "work": {
         "one": {
-            "title": "Monitorables (website)",
-            "desc": "Monitorables is a business club, an online store that sells market researches.",
-            "url": "https://www.monitorables.com/",
+            "title": "Afriq Research (website)",
+            "desc": "Afriq Research is a business club, an online store that sells market researches.",
+            "url": "https://www.afriq-research.com/",
             "git1": "https://github.com/jankoboz/afriq-server",
             "git2": "https://github.com/jankoboz/afriq-ui"
         },
         "two": {
-            "title": "Tek Tek (browser extension)",
-            "desc": "With Tek Tek; search, translate, save location, create your own library of words & sentences.",
-            "url": "https://chrome.google.com/webstore/detail/tek-tek/bcicpbgbdilgjedcdlmopjnmmnglkado",
-            "git": "https://github.com/jankoboz/tek-tek"
-        },
-        "three": {
             "title": "Jostylin (website)",
             "desc": "Currently a blogging website",
             "url": "https://jostylin.com/",
             "git": "https://github.com/jankoboz/Jostylin"
+        },
+        "three": {
+            "title": "Tek Tek (browser extension)",
+            "desc": "With Tek Tek; search, translate, save location, create your own library of words & sentences.",
+            "url": "https://chrome.google.com/webstore/detail/tek-tek/bcicpbgbdilgjedcdlmopjnmmnglkado",
+            "git": "https://github.com/jankoboz/tek-tek"
         },
         "four": {
             "title": "Portfolio (website)",
@@ -26,19 +26,12 @@
             "git": "https://github.com/jankoboz/portfolio"
         },
         "five": {
-            "title": "Travel App (mobile app)",
-            "desc": "A travel app with React Native",
-            "url1": "https://apple.com/uk/ios/app-store/",
-            "url2": "https://play.google.com/store/apps?hl=en_GB&gl=US",
-            "git": "https://github.com/jankoboz/travel-app.git"
-        },
-        "six": {
             "title": "EasyJsonDb (library)",
             "desc": "EasyJsonDb is a filesystem database for Node.js. Specifically designed for testing and sample applications.",
             "url": "https://www.npmjs.com/package/easy-json-db-nodejs",
             "git": "https://github.com/jankoboz/easyJsonDb"
         },
-        "seven": {
+        "six": {
             "title": "Cookied (library)",
             "desc": "Cookied is a tiny browser javascript library that helps managing browser cookies slightly easier.",
             "url": "https://www.npmjs.com/package/cookied-js",

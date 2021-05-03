@@ -2,7 +2,7 @@
     "title": "Skills",
     "skills": {
         "Design": {
-            "detail": "Illustrator, Photoshop, Figma, CorelDRAW"
+            "detail": "Illustrator, Photoshop, CorelDRAW, Figma"
         },
         "Test": {
             "detail": "Jest/Enzyme, Mocha/Chai"
