@@ -24,7 +24,3 @@ A simple complete JamStack site. Hugo is a static site generator written in Go. 
 -   `/static/*` Public holds css,sass,js files as well as source (entery point) html files.
 -   `/public/*` Public is like `dist` or `build`. Holds the production ready build of the website.
 
-## Available Commands
-
--   `hugo server -D` - start the dev server (http://localhost:1313/)
--   `hugo -D` - Build static pages
