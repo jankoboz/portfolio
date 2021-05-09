@@ -3,8 +3,9 @@
     "work": {
         "one": {
             "title": "Afriq Research (website)",
-            "desc": "Afriq Research is a business club, an online store that sells market researches.",
-            "url": "https://www.afriq-research.com/",
+            "desc": "Afriq Research is recently built for a client, they haven't start using the website yet, for now they are only blogging on it. I uploaded a copy of the website on my personal domain to showcase it on my portfolio.",
+            "url1": "https://monitorables.com/",
+            "url2": "https://www.afriq-research.com/",
             "git1": "https://github.com/jankoboz/afriq-server",
             "git2": "https://github.com/jankoboz/afriq-ui"
         },
