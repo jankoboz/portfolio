@@ -6,8 +6,6 @@ PORTFOLIO WEBSITE
 
 A simple complete JamStack site. Hugo is a static site generator written in Go. It is very fast, not much loading or build time, very efficient for building small sites.
 
-<a href=https://cihangir.dev/ target="_blank">Visit my personal portfolio website</a>
-
 ## Software features
 
 -   ✅ <b>Html</b> - Markup language
