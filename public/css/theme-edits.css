@@ -9,9 +9,18 @@
     font-size: 1.12rem;
 }
 
+.portfolio .h5 {
+    font-size: 1.3rem;
+}
+
+.portfolio .h5 b {
+    font-size: 2.1rem;
+}
+
 .portfolio {
-    padding-bottom: 30px;
-    margin-bottom: 32px;
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+    padding-top: 16px;
     border-bottom: 1px solid #e8f4f4;
 }
 
@@ -20,15 +29,30 @@
 }
 
 .portfolio .description {
-    font-size: 0.784rem;
+    font-size: 0.8rem;
+    margin: 5px 0 22px;
 }
 
 .portfolio a {
-    font-size: 0.9rem;
-    color: black;
-    margin-right: 10px;
+    font-size: 0.88rem;
+    color: rgb(0, 47, 255);
 }
 
 .portfolio a:hover {
     border-bottom: 1px solid;
+}
+
+.portfolio .credentials {
+    font-size: 0.8rem;
+    padding: 10px 30px 10px 8px;
+    border: 1px solid white;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+.portfolio .credentials i {
+    font-size: 1.1rem;
+    margin-right: 20px;
+    display: inline-block;
+    margin-top: 6px;
 }
