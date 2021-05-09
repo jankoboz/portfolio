@@ -1,37 +1,35 @@
 name: CI
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    push:
+        branches: [main]
+    pull_request:
+        branches: [main]
 
-
-  workflow_dispatch:
-
+    workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    build:
+        runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v2
-      
-    # HUGO
-      - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.4.13
-        with:
-          extended: true
-        
-    # Build HUGO
-      - name: Build HUGO site
-      - run: hugo
+        steps:
+            - uses: actions/checkout@v2
 
-    # Deploy to GH pages
-      - name: Deploy to GH pages
-        uses: crazy-max/ghaction-github-pages@v2.3.0
-        with:
-          target_branch: gh-pages
-          build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            # HUGO
+            - name: Hugo setup
+              uses: peaceiris/actions-hugo@v2.4.13
+              with:
+                  extended: true
+
+            # Build HUGO
+            - name: Build HUGO site
+              run: hugo
+
+            # Deploy to GH pages
+            - name: Deploy to GH pages
+              uses: crazy-max/ghaction-github-pages@v2.3.0
+              with:
+                  target_branch: gh-pages
+                  build_dir: public
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
