@@ -8,7 +8,7 @@
             "detail": "Jest/Enzyme, Mocha/Chai"
         },
         "Frontend": {
-            "detail": "Html, Css, Sass, Styled, Jquery, React, Vue, Redux, Vuex, Next, Nuxt, Hugo"
+            "detail": "Html, Css, Sass, Styled, Jquery, React, Vue, Redux, Vuex, Next, Nuxt, Hugo, Material UI"
         },
         "Server": {
             "detail": "Sql, NoSql, Cms, Api, Jwt, Redis, Graphql, Rest, S3, Payment gateways"
